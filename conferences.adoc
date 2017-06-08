@@ -18,9 +18,11 @@ This document lists :
 * http://www.bdx.io/[**Bdx.io**]  : **Bordeaux, FR** – 21/10/2016 (**1** day).
 * http://www.dotjs.io/[**dotJS**] : **Paris, FR** – 05/12/2016 (**1** day).
 
-## Present
+### 2017
 
 * http://2017.jsconf.eu/[**JSConfEU**] : **Berlin, DE** – 06/05/2017 (**2** days).
+
+## Present
 
 ## Future/Wishlist
 
