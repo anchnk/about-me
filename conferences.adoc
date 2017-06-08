@@ -22,9 +22,11 @@ This document lists :
 
 * http://2017.jsconf.eu/[**JSConfEU**]: **Berlin, DE** – 06/05/2017 (**2** days).
 
-## Present
+### 2017
 
 No conferences planned at the moment.
+
+## Present
 
 ## Future/Wishlist
 
