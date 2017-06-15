@@ -8,7 +8,8 @@ developer's activity.
 Even though I truly believe in Open Source's philosophy my only option to
 improve that situation is to lay down everything I did.
 
-That's what this file is for.
+That's what this file is for: an attempt to enlighten the dark side of the
+iceberg.
 
 ## Orange
 
