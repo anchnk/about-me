@@ -8,7 +8,7 @@ my professional philosophy and show my journey as a software developer.
 ## Files available in this repository
 
 - **[`conferences.adoc`](conferences.adoc)**: List of events (mainly dev confs,
-    summits, meetups...).  **[`companies.json`](companies.json)**: List of
-- companies I work/worked for.
+    summits, meetups...).
+- **[`companies.json`](companies.json)**: List of companies I work/worked for.
 - **[`projects.md`](projects.md)**: List of the projects I worked on
     professionally.
