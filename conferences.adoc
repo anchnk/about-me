@@ -30,6 +30,6 @@ No conferences planned at the moment.
 
 ## Future/Wishlist
 
-* https://vimfest.org/[**vimfest**]: **Berlin, DE** – 22/09/2017 (**2** days).
+* https://vimfest.org/[**vimfest**]: **Berlin, DE** - 22/09/2017 (**2** days).
 * http://www.nodeconf.eu/[**NodeConfEU**]: **Kilkenny, IR** – 05/11/2017 (**3** days).
 * http://www.dotjs.io/[**dotJS**]: **Paris, FR** – 01/12/2017 (**1** day).
