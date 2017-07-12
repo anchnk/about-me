@@ -8,6 +8,7 @@ my professional philosophy and show my journey as a software developer.
 ## Files available in this repository
 
 - **[`companies.json`](companies.json)**: List of companies I work/worked for.
+    JSON format so that can be easily parsed for a dynamic web resume.
 - **[`conferences.adoc`](conferences.adoc)**: List of events (mainly dev confs,
     summits, meetups...).
 - **[`projects.md`](projects.md)**: List of the projects I worked on
