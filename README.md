@@ -25,11 +25,13 @@ Which usually translates to:
 
 You should find answers to these questions in this repository.
 
+
 I also plan to use this repository in order to build a **dynamic resume**, hence
 the `json` files.
 
 Lastly, **remote companies** may determinate if my profile fits their
 **requirements for a specific position**.
+
 
 ## Files available in this repository
 
