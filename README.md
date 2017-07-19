@@ -33,9 +33,7 @@ for a specific position.
 
 ## Files available in this repository
 
-- **[`companies.json`](companies.json)**: List of companies I work/worked for.
-    JSON format so that can be easily parsed for a dynamic web resume.
-- **[`conferences.adoc`](conferences.adoc)**: List of events (mainly dev confs,
+- **[`companies.json`](companies.json)**: Companies I work / worked for.
+- **[`conferences.adoc`](conferences.adoc)**: Events (mainly dev confs,
     summits, meetups...).
-- **[`projects.md`](projects.md)**: List of the projects I worked on
-    professionally.
+- **[`projects.md`](projects.md)**: Projects I worked on
