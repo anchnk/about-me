@@ -63,4 +63,5 @@ Lastly, **remote companies** may determinate if my profile fulfills their
 File | Purpose
 -----|--------
 **[`conferences.md`](conferences.md)** | Developers conferences
+**[`meetups.md`](meetups.md)** | Developers Meetups
 **[`projects.md`](projects.md)** | Closed source projects I worked on
