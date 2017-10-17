@@ -13,3 +13,4 @@ Years | Dates | Countries | Cities | Events                                    |
 2017  | 09-27 | France    | Paris  | **First International Electron Meetup**   | https://www.meetup.com/Meetup-Electron-JS-Paris/events/242763072/
 2017  | 10-05 | France    | Paris  | **Tester son API avec Postman**           | https://www.meetup.com/matterstech/events/243301665/
 2017  | 10-10 | France    | Paris  | **Paris Cross Browser #1**                | https://www.meetup.com/Paris-Cross-Browser-Meetup/events/243648069/
+2017  | 10-16 | France    | Paris  | **Introduction aux WebExtensions**        | https://www.meetup.com/Firefox-France-User-Group/events/243324869/
