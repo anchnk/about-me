@@ -28,5 +28,5 @@ Years | Dates | Countries | Cities    | Websites                     | Durations
 
 Years | Dates | Countries | Cities    | Websites                     | Durations
 ------|-------|-----------|-----------|------------------------------|----------
-2018  | 09-12 | France    | Paris     | https://www.dotjs.io/        | 1 day
 2018  | 02-06 | Germany   | Berlin    | https://2018.jsconf.eu/      | 2 days
+2018  | 09-12 | France    | Paris     | https://www.dotjs.io/        | 1 day
