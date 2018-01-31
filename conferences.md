@@ -15,15 +15,18 @@ Years | Dates | Countries | Cities    | Websites                     | Durations
 2016  | 21-10 | France    | Bordeaux  | http://www.bdx.io/           | 1 day
 2016  | 05-12 | France    | Paris     | http://www.dotjs.io/         | 1 day
 2017  | 06-05 | Germany   | Berlin    | http://2017.jsconf.eu/       | 2 days
+2017  | 01-12 | France    | Paris     | http://www.dotjs.io/         | 1 day
+2018  | 30-01 | France    | Paris     | http://bit.ly/2DzLpYK        | 1 day
 
 ## Present
 
-No conferences planned at the moment.
+Years | Dates | Countries | Cities    | Websites                     | Durations
+------|-------|-----------|-----------|------------------------------|----------
+2018  | 08-06 | France    | Paris     | http://bestofweb.paris/      | 1 day
 
 ## Future / Wishlist
 
 Years | Dates | Countries | Cities    | Websites                     | Durations
 ------|-------|-----------|-----------|------------------------------|----------
-2017  | 22-09 | Germany   | Berlin    | https://vimfest.org/         | 2 days
-2017  | 05-11 | Ireland   | Kilkenny  | http://www.nodeconf.eu/      | 3 days
-2017  | 01-12 | France    | Paris     | http://www.dotjs.io/         | 1 day
+2018  | 09-12 | France    | Paris     | https://www.dotjs.io/        | 1 day
+2018  | 02-06 | Germany   | Berlin    | https://2018.jsconf.eu/      | 2 days
