@@ -2,9 +2,9 @@
 
 This document lists :
 
-- Conferences / meetups / summits I **[have been to](#past)**.
-- Conferences / meetups / summits I **[am going to](#present)**.
-- Conferences / meetups / summits I **[would like to go to](#future--wishlist)**.
+- Conferences / summits I **[have been to](#past)**.
+- Conferences / summits I **[am going to](#present)**.
+- Conferences / summits I **[would like to go to](#future--wishlist)**.
 
 ## Past
 
