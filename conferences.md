@@ -8,8 +8,6 @@ This document lists :
 
 ## Past
 
-### 2015
-
 Years | Dates | Countries | Cities    | Websites                     | Durations
 ------|-------|-----------|-----------|------------------------------|----------
 2015  | 16-10 | France    | Bordeaux  | http://www.bdx.io/           | 1 day
