@@ -58,7 +58,7 @@ You should find answers to these questions in this repository.
 Lastly, **remote companies** may determinate if my profile fulfills their
 **requirements for a specific position**.
 
-## Files listing
+## `ls .`
 
 File | Purpose
 -----|--------
