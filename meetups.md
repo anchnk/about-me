@@ -14,3 +14,7 @@ Years | Dates | Countries | Cities | Events                                    |
 2017  | 10-05 | France    | Paris  | **Tester son API avec Postman**           | https://www.meetup.com/matterstech/events/243301665/
 2017  | 10-10 | France    | Paris  | **Paris Cross Browser #1**                | https://www.meetup.com/Paris-Cross-Browser-Meetup/events/243648069/
 2017  | 10-16 | France    | Paris  | **Introduction aux WebExtensions**        | https://www.meetup.com/Firefox-France-User-Group/events/243324869/
+2017  | 11-29 | France    | Paris  | **Paris #69 dotJS Edition**               | https://www.meetup.com/Paris-js/events/244179664/
+2017  | 12-11 | France    | Paris  | **Creative Coding Strange Attractors...** | https://www.meetup.com/CreativeCodeParis/events/245495070/
+2017  | 12-19 | France    | Paris  | **Chapitre 5 / Conférence 4**             | https://www.meetup.com/Nodejs-Paris/events/245559363/
+2018  | 01-31 | France    | Paris  | **Paris.js #70 Bonne année!**             | https://www.meetup.com/Paris-js/events/246746052/
