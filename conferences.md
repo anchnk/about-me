@@ -24,6 +24,7 @@ Years | Dates | Countries | Cities    | Websites                     | Durations
 ------|-------|-----------|-----------|------------------------------|----------
 2018  | 27-05 | France    | Paris     | https://paris.rustfest.eu/   | 2 days
 2018  | 08-06 | France    | Paris     | http://bestofweb.paris/      | 1 day
+2018  | 19-06 | France    | Paris     | https://amzn.to/1NXGo6j/     | 1 day
 
 ## Future / Wishlist
 
