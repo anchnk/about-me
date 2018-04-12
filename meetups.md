@@ -18,3 +18,4 @@ Years | Dates | Countries | Cities | Events                                    |
 2017  | 12-11 | France    | Paris  | **Creative Coding Strange Attractors...** | https://www.meetup.com/CreativeCodeParis/events/245495070/
 2017  | 12-19 | France    | Paris  | **Chapitre 5 / Conférence 4**             | https://www.meetup.com/Nodejs-Paris/events/245559363/
 2018  | 01-31 | France    | Paris  | **Paris.js #70 Bonne année!**             | https://www.meetup.com/Paris-js/events/246746052/
+2018  | 04-11 | France    | Paris  | **Chapitre 5 / Conférence 7**             | https://www.meetup.com/Nodejs-Paris/events/249491918/
