@@ -1,67 +1,59 @@
-# About
+# About Me
 
-This repository is a place where you can find out:
+TBD
 
-- **Who I am**
-- **What I do**
-- **How I work**
+## Biography
 
-... as a software developer.
+TBD
 
-My primary goal is to establish my **approach towards work in the IT industry**.
+## Social Handles
 
-It will also reflect my **professional philosophy** and show my **journey as a
-software developer**.
+My online activity is mostly identified by the alias **anchnk**. It's the alias
+that I mainly use when creating content online.
 
-## Motivations
+I am usually hanging in places such as **discourse**, **gitter**, **irc**,
+**slack** under that alias. Feel free to ping me if you have any questions
+regarding  my activities.
 
-What are motivations behind such repository ?
+- [github](https://github.com/anchnk)
+- [medium](https://medium.com/@anchnk)
+- [twitter](https://twitter.com/anchnk)
 
-### 1. Emphase closed codebases contributions
+## Books
 
-First of all, this place should reflects **what I did during my daytime job**.
+Quite often, I order books from the following publishers:
 
-As many developers working in corporations, most of the code I write isn't
-publicly visible (my github's repository just being the visible tip of the
-Iceberg). It also means my github's profile doesn't reflects accurately my
-developer's activity. Closed source copyrighted codebases occults most of the
-work one may have done in his career
+- [leanpub](https://leanpub.com/)
+- [manning](https://www.manning.com/)
+- [no starch press](https://nostarch.com/)
+- [the pragmatic bookshelf](https://pragprog.com/)
+- [o'reilly](https://www.oreilly.com/)
 
-Even though I truly believe in Open Source's philosophy my only option to
-improve that situation is to lay down everything I did.
+Topics include **API design**, **algorithms**, **caching**, **cloud computing**,
+**cognitive science**, **containers**, **database**, **data structure**,
+**distributed systems**, **linux**, **math (linear algebra and calculus)**,
+**software architecture**, **system programming, **vim**, **Web programming**,
+...
 
-That's what this file is for: an attempt to enlighten the dark side of the
-iceberg.
+Whenever I am commuting I am either listening podcasts or reading digital books.
 
-### 2. Improve social interactions
+## Conferences
 
-Second, at conferences / meetups, one of the first question that comes out is:
-> so, what do you do exactly in your company ?
+Event                                             | Date               | Location
+--------------------------------------------------|--------------------|-----------
+[AWS Summit Paris](https://amzn.to/1NXGo6j/)      | 2018-06-19         | Paris    🇫🇷
+[Best Of Web 2018](http://bestofweb.paris/)       | 2018-06-{07..08}   | Paris    🇫🇷
+[RustFest Paris 2018](https://paris.rustfest.eu/) | 2018-05-{26..27}   | Paris    🇫🇷
+[API Days Paris](http://www.apidays.io/)          | 2018-01-30         | Paris    🇫🇷
+[DotJS](http://www.dotjs.io/)                     | 2017-12-01         | Paris    🇫🇷
+[JSConfEU](https://2017.jsconf.eu/)               | 2017-05-{06..07}   | Berlin   🇩🇪
+[DotJS](http://www.dotjs.io/)                     | 2016-12-05         | Paris    🇫🇷
+[BordeauxIO](https://www.bdx.io/)                 | 2016-10-21         | Bordeaux 🇫🇷
+[DevoxxFR](https://devoxx.com)                    | 2016-04-{20..22}   | Paris    🇫🇷
+[BordeauxIO](https://www.bdx.io/)                 | 2015-10-16         | Bordeaux 🇫🇷
 
-Which usually translates to:
 
-- **What** kind of **products** are you building ?
-- How **projects** are **run** and **structured** ?
-- How do you go from **dev** to **production** ?
-- What is your **role** in the **company** ?
-- What is your **background** and **experiences** ?
-- How do you **solve problems** and **difficulties** ?
-- Which **programming languages** are you using ?
-- What do you like / dislikes about them ?
-- What are your **motivations for the future** ?
-- And so on.
+## Meetups
 
-You should find answers to these questions in this repository.
+TBD
 
-### 3. Improve online visibility
-
-Lastly, **remote companies** may determinate if my profile fulfills their
-**requirements for a specific position**.
-
-## `ls .`
-
-File | Purpose
------|--------
-**[`conferences.md`](conferences.md)** | Developers conferences
-**[`meetups.md`](meetups.md)** | Developers Meetups
-**[`projects.md`](projects.md)** | Closed source projects I worked on
