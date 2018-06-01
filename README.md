@@ -58,3 +58,29 @@ Event                                             | Date               | Locatio
 
 TBD
 
+## Podcasts
+
+I am a huge fan of the [changelog](https://changelog.com) podcast. And I highly
+recommend that everyone involved in the tech industry suscribe to their
+newsletter. Thanks to them I discovered amazing projects and people.
+
+I limited myself to follow 10 podcasts as it's already hard to keep the pace up.
+That's the kind of list I would have like to have when I started. I hope it will
+be helpful to somebody else.
+
+- [basecs](https://www.codenewbie.org/basecs)
+- [Command_Line Heroes](https://www.redhat.com/en/command-line-heroes)
+- [GraphQL Radio](https://graphqlradio.com/)
+- [JavaScript Jabber](https://devchat.tv/js-jabber)
+- [JS Party](https://changelog.com/jsparty)
+- [Manifest](https://manifest.fm/)
+- [New Rustacean](https://newrustacean.com/)
+- [Reactive](http://reactive.audio/)
+- [The Changelog](https://changelog.com/podcast)
+- [Syntax.fm](https://syntax.fm/)
+
+
+
+
+
+
