@@ -15,6 +15,7 @@ ping me if you have any questions regarding  my activities.
 
 Here are my handles on some popular platforms:
 
+- [dev.to](https://dev.to/anchnk)
 - [github](https://github.com/anchnk)
 - [medium](https://medium.com/@anchnk)
 - [twitter](https://twitter.com/anchnk)
