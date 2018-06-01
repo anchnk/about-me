@@ -8,12 +8,12 @@ TBD
 
 ## Social Handles
 
-My online activity is mostly identified by the alias **anchnk**. It's the alias
-that I mainly use when creating content online.
+My online activity is mostly visible under the alias **anchnk**. It's the alias
+that I mainly use when creating content online.  I am hanging in places such as
+**discourse**, **gitter**, **irc**, **slack** under that alias. Feel free to
+ping me if you have any questions regarding  my activities.
 
-I am usually hanging in places such as **discourse**, **gitter**, **irc**,
-**slack** under that alias. Feel free to ping me if you have any questions
-regarding  my activities.
+Here are my handles on some popular platforms:
 
 - [github](https://github.com/anchnk)
 - [medium](https://medium.com/@anchnk)
@@ -32,7 +32,7 @@ Quite often, I order books from the following publishers:
 Topics include **API design**, **algorithms**, **caching**, **cloud computing**,
 **cognitive science**, **containers**, **database**, **data structure**,
 **distributed systems**, **linux**, **math (linear algebra and calculus)**,
-**software architecture**, **system programming, **vim**, **Web programming**,
+**software architecture**, **system programming**, **vim**, **Web programming**
 ...
 
 Whenever I am commuting I am either listening podcasts or reading digital books.
