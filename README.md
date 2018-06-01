@@ -15,20 +15,20 @@ ping me if you have any questions regarding  my activities.
 
 Here are my handles on some popular platforms:
 
-- [dev.to](https://dev.to/anchnk)
-- [github](https://github.com/anchnk)
-- [medium](https://medium.com/@anchnk)
-- [twitter](https://twitter.com/anchnk)
+- [Dev.to](https://dev.to/anchnk)
+- [Github](https://github.com/anchnk)
+- [Medium](https://medium.com/@anchnk)
+- [Twitter](https://twitter.com/anchnk)
 
 ## Books
 
 Quite often, I order books from the following publishers:
 
-- [leanpub](https://leanpub.com/)
-- [manning](https://www.manning.com/)
-- [no starch press](https://nostarch.com/)
-- [the pragmatic bookshelf](https://pragprog.com/)
-- [o'reilly](https://www.oreilly.com/)
+- [Leanpub](https://leanpub.com/)
+- [Manning](https://www.manning.com/)
+- [No starch press](https://nostarch.com/)
+- [The pragmatic bookshelf](https://pragprog.com/)
+- [O'reilly](https://www.oreilly.com/)
 
 Topics include **API design**, **algorithms**, **caching**, **cloud computing**,
 **cognitive science**, **containers**, **database**, **data structure**,
@@ -68,7 +68,7 @@ I limited myself to follow 10 podcasts as it's already hard to keep the pace up.
 That's the kind of list I would have like to have when I started. I hope it will
 be helpful to somebody else.
 
-- [basecs](https://www.codenewbie.org/basecs)
+- [Basecs](https://www.codenewbie.org/basecs)
 - [Command_Line Heroes](https://www.redhat.com/en/command-line-heroes)
 - [GraphQL Radio](https://graphqlradio.com/)
 - [JavaScript Jabber](https://devchat.tv/js-jabber)
