@@ -1,3 +1,6 @@
+language: node_js
+node_js:
+  - "node"
 install:
   - sudo apt-get install npm
   - sudo npm install -g markdown-link-check
