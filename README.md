@@ -2,10 +2,6 @@
 
 TBD
 
-## Biography
-
-TBD
-
 ## Social Handles
 
 My online activity is mostly visible under the alias **anchnk**. It's the alias
