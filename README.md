@@ -36,19 +36,42 @@ Whenever I am commuting I am either listening podcasts or reading digital books.
 
 ## Conferences
 
-Event                                             | Date               | Location
---------------------------------------------------|--------------------|-----------
-[AWS Summit Paris](https://amzn.to/1NXGo6j/)      | 2018-06-19         | Paris    🇫🇷
-[Best Of Web 2018](http://bestofweb.paris/)       | 2018-06-{07..08}   | Paris    🇫🇷
-[RustFest Paris 2018](https://paris.rustfest.eu/) | 2018-05-{26..27}   | Paris    🇫🇷
-[API Days Paris](http://www.apidays.io/)          | 2018-01-30         | Paris    🇫🇷
-[DotJS](http://www.dotjs.io/)                     | 2017-12-01         | Paris    🇫🇷
-[JSConfEU](https://2017.jsconf.eu/)               | 2017-05-{06..07}   | Berlin   🇩🇪
-[DotJS](http://www.dotjs.io/)                     | 2016-12-05         | Paris    🇫🇷
-[BordeauxIO](https://www.bdx.io/)                 | 2016-10-21         | Bordeaux 🇫🇷
-[DevoxxFR](https://devoxx.com)                    | 2016-04-{20..22}   | Paris    🇫🇷
-[BordeauxIO](https://www.bdx.io/)                 | 2015-10-16         | Bordeaux 🇫🇷
+All conferences I attended as a participant. IMO, going to conference
+really helps to stay at the edge.
 
+
+ Date                 |Event                                                    | Location
+----------------------|---------------------------------------------------------|-----------
+ 2019-06-07           |[Best Of Web 2019][2019-best-of-web-paris]               | 🇫🇷 Paris
+ 2018-11-24           |[RustFest Rome][2018-rust-fest-rome]                     | 🇮🇹 Roma
+ 2018-11-12 & 13      |[Grow Paris][grow-paris]                                 | 🇫🇷 Paris
+ 2018-10-19 & 20      |[Serverless Days Milan 2018][2018-serverless-days-milan] | 🇮🇹 Milan
+ 2018-06-19           |[AWS Summit Paris][aws-summit-paris]                     | 🇫🇷 Paris
+ 2018-06-07 & 08      |[Best Of Web 2018][2018-best-of-web-paris]               | 🇫🇷 Paris
+ 2018-05-26 & 27      |[RustFest Paris 2018][2018-rust-fest-paris]              | 🇫🇷 Paris
+ 2018-01-30           |[API Days Paris][2018-api-days-paris]                    | 🇫🇷 Paris
+ 2017-12-01           |[DotJS][2017-dotjs-paris]                                | 🇫🇷 Paris
+ 2017-05-06 & 07      |[JSConfEU][2017-jsconf-eu-berlin]                        | 🇩🇪 Berlin
+ 2016-12-05           |[DotJS][2016-dotjs-paris]                                | 🇫🇷 Paris
+ 2016-10-21           |[BordeauxIO][bordeaux.io]                                | 🇫🇷 Bordeaux
+ 2016-04-20 & 21 & 22 |[DevoxxFR][2016-devoxxfr-paris]                          | 🇫🇷 Paris
+ 2015-10-16           |[BordeauxIO][bordeaux.io]                                | 🇫🇷 Bordeaux
+
+[2019-best-of-web-paris]: http://bestofweb.paris/
+[2018-rust-fest-rome]: https://ti.to/asquera-event-ug/rustfest-rome-2018/en
+[2018-serverless-days-milan]: https://2018.milan.serverlessdays.io/
+[2018-aws-summit-paris]: https://amzn.to/1NXGo6j/
+[2018-best-of-web-paris]: http://bestofweb.paris/2018/
+[2018-rust-fest-paris]: https://paris.rustfest.eu/
+[2018-api-days-paris]: http://www.apidays.io/
+[2017-dotjs-paris]: https://2017.dotjs.io/
+[2017-jsconf-eu-berlin]: https://2017.jsconf.eu/
+[2016-dotjs-paris]: https://www.dotconferences.com/conference/dotjs-2016
+[2016-devoxxfr-paris]: https://www.devoxx.fr/agenda?year=2016
+
+[aws-summit-paris]: https://aws.amazon.com/fr/events/summits/paris/
+[grow-paris]: https://www.grow.paris/
+[bordeaux.io]:https://www.bdx.io/
 
 ## Meetups
 
