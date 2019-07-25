@@ -97,9 +97,3 @@ be helpful to somebody else.
 - [Reactive](http://reactive.audio/)
 - [The Changelog](https://changelog.com/podcast)
 - [Syntax.fm](https://syntax.fm/)
-
-
-
-
-
-
